@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: beige;
+}
+
+#pathCovered{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
+}
+
+#canvasElement{
+    display: flex;
+    background-color: white;
+    border: 1px solid black;
+    
+}
